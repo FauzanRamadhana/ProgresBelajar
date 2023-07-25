@@ -1,8 +1,7 @@
 # ProgresBelajar
 Repository yang berisi progres belajarku
 
-**September 2022 - Januari 2023**
-
+**September 2022 - Januari 2023**  
 Semester 1
 * Belajar Implementasi Algoritma Menggunakan Bahasa Programming Java Dalam Matkul IMA
 * Belajar Alat Bantu Grafis Digital dalam Matkul ABGD
@@ -12,8 +11,7 @@ Semester 1
 * Belajar Dasar Sistem Komputer Dalam Matkul DSk
 * Belajar Agama Islam Dalam Matkul AGAMA ISLAM
 
-**Maret 2023 - Juni 2023**
-
+**Maret 2023 - Juni 2023**  
 Semester 2 
 * Belajar Implementasi Strtuktur Data Menggunakan Bahasa Programming Java Dalam Matkul ISD
 * Belajar Sistem Basis Data Dalam Matkul SBD
