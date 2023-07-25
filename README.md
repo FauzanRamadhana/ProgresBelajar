@@ -19,3 +19,7 @@ Semester 2
   * Belajar Pemrograman Berbasis Web Dalam Matkul PBW 1.
   * Belajar Membuat Proyek Tingkat 1 Dalam Matkul PT 1.
   * Belajar Bahasa Inggris Dalam Matkul BAHASA INGGRIS.
+
+**September 2023 - Januari 2024**  
+Semester 3
+  * Soon 
